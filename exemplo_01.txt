@@ -1,1 +1,3 @@
 Curso de git básico 
+
+Curso feito por jackson pires o mesmo que ensina ruby on rails
